@@ -1,3 +1,0 @@
-Java,true
-Werkstudent,false
-Praktikum,false
